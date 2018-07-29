@@ -22,5 +22,3 @@ export async function main(event, context, callback) {
     callback(null, failure({ status: false }));
   }
 }
-
-gibberish.what;
